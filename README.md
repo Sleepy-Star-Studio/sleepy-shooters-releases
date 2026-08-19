@@ -99,6 +99,13 @@
 | **Revive Teammate** | **`E` (Hold 1.5s)** | **`◻ Square` / X (Hold)** |
 | **Settings / Pause** | **`ESC`** | **`Start / Options`** |
 
+## ⚠️ Disclaimer & Limitation of Liability
+
+> [!WARNING]
+> **USE AT YOUR OWN RISK:** This software, including all executables, binaries, archives, and associated assets provided in this repository, is provided for experimental, educational, and testing purposes on an **"AS IS"** and **"AS AVAILABLE"** basis, without warranties or representations of any kind, whether express, implied, or statutory.
+> 
+> The creator, authors, maintainers, **Sleepy Star Studio**, and contributors expressly disclaim all liability and assume no responsibility for any direct, indirect, incidental, consequential, special, or punitive damages, data loss, hardware impairment, system malfunctions, or security conflicts resulting from the download, installation, execution, or use of these files. By downloading or running this executable, you agree that you do so entirely at your own risk and discretion.
+
 ---
 
 ## 🏢 Sleepy Star Studio
