@@ -1,0 +1,23 @@
+# macOS system & metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon
+Icon?
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# Editor & OS files
+*.tmp
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+builds/
